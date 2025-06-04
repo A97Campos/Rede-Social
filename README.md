@@ -1,13 +1,3 @@
-**Navegue até o diretório do projeto:**
-
-   ```bash
-   cd twitter_clone
-   ```
-
-**Configure as variáveis de ambiente:**
-
-   Crie um arquivo `.env` com as configurações necessárias (baseado em `env.dev` se existir).
-
 **Inicie os serviços com Docker Compose:**
 
    ```bash
